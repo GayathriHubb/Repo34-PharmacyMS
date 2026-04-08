@@ -11,3 +11,20 @@ Login.cs: User authentication interface,
 Register.cs: New user registration,
 ChangePswrd.cs: Password modification,
 ForgotPswrd.cs: Password recovery
+
+Authentication Layer |
+Login.cs: User authentication interface,
+Register.cs: New user registration,
+ChangePswrd.cs: Password modification,
+ForgotPswrd.cs: Password recovery
+
+Role-Based Dashboards
+
+1. Admin Dashboard (AdminMain.cs)
+Full system access and management,
+Navigation to all modules with animated indicator
+Dashboard with statistics,
+Color theme customization (Light/Dark modes),
+User logout functionality,
+2. Staff Dashboard (StaffMain.cs)
+Staff member interface with limited permissions
